@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-mcsh",
+  "version": "1.0.0",
+  "description": "MCSH's CRA Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCSH/cra.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "author": "Sajjad Heydari <mcshemail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MCSH/cra/issues"
+  },
+  "homepage": "https://github.com/MCSH/cra#readme"
+}

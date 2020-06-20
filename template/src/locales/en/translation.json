@@ -1,0 +1,10 @@
+{
+  "Home": {
+    "title": "Home"
+  },
+
+  "someFeature": {
+    "title": "A random title",
+    "description": "Another string?!"
+  }
+}

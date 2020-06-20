@@ -25,6 +25,6 @@
         "scripts": {
             "generate": "plop --plopfile internal/generator/plopfile.js",
             "prettify": "prettier --write"
-        },
+        }
     }
 }

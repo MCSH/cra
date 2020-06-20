@@ -1,6 +1,6 @@
 {
   "name": "cra-template-mcsh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCSH's CRA Template",
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   "bugs": {
     "url": "https://github.com/MCSH/cra/issues"
   },
+  "main": "template.json",
   "files": [
       "template",
       "template.json"
